@@ -21,7 +21,7 @@
 ### About me
 
 - 🎓 **MS in Computer Software Engineering**, Northeastern University (Dec 2025).
-- 💼 ~3 years of engineering experience — most recently at **Goodwork**, an early-stage AI startup, before that **Tata Consultancy Services**.
+- 💼 3 years of engineering experience — most recently at **Goodwork**, an early-stage AI startup, before that **Tata Consultancy Services**.
 - 🛠️ I build **production backends** (Java/Spring Boot, Python/FastAPI, Node/NestJS) and **AI-powered features** (RAG, LangChain, LlamaIndex, AWS Bedrock).
 - ☁️ Comfortable across the stack: React/Next.js on the frontend, Postgres / Redis / vector stores in the middle, AWS + Terraform + GitHub Actions for the rest.
 - 🔍 **Currently open to full-time roles** — backend, full-stack, or AI engineering.
